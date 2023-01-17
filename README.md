@@ -16,25 +16,25 @@ The ERC20 contract for our custom token was built by inheriting from the Openzep
 
 Clone the project
 
-```bash
+```shell
   git clone https://github.com/sumana10/ERC20Token.git
 ```
 
 Go to the project directory
 
-```bash
+```shell
   cd ERC20Token
 ```
 
 Install dependencies
 
-```bash
+```shell
   npm install
 ```
 
 Start the server
 
-```bash
+```shell
   npx hardhat compile
 ```
 
